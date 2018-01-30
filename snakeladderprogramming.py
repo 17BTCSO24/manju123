@@ -38,7 +38,7 @@ while(count<=100):
         count=97
         print("wow you have climbed a ladder")
     elif(count==89):
-        count=90
+        count=70
         print("no snake has bitten you")
     elif(count==93):
         count=64
